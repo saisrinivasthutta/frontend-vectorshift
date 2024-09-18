@@ -1,0 +1,14 @@
+@import "./variables.css";
+
+body {
+  margin: 0;
+  font-family: var(--primary-font);
+  font-size: var(--body-font-size);
+  background-color: var(--background-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: var(--code-font);
+}
